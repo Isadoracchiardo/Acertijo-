@@ -1,2 +1,3 @@
 # Acertijo-
-Acertijo y su algoritmo. 
+"ACERTIJO Y SU ALGORITMO"
+
